@@ -1,0 +1,5 @@
+.idea/
+__pycache__
+.ipynb_checkpoints
+twitter_credentials.py
+twitter_data/twitter_data_fetched_test*
