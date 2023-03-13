@@ -1,7 +1,7 @@
 # Twitter-Data-Analysis
 Real-Time Twitter Analysis Application Using Apache Spark and AWS Ecosystem
 ## Goal:
-A real-time analysis to explore the underlying topics and the sentiment for live tweets that are talking about AI and Machine Learning filtered by the hashtags #AI, #MachineLearning. With the sentiment analysis, we also catch a glimpse of the public attitudes towards this field. In the end, we will also build a dashboard for visualization.
+A real-time analysis to explore the underlying topics and the sentiment for live tweets that are talking about AI and Machine Learning filtered by the hashtags #AI, #MachineLearning. With sentiment analysis, I explored the public attitudes towards this field. In the end, I  built a dashboard for visualization.
 
 ## Python Packages:
 
