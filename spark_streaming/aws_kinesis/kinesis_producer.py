@@ -47,7 +47,7 @@ class TweetStreamListener(StreamListener):
 
 if __name__ == '__main__':
     # create kinesis client connection
-    session = boto3.Session(profile_name='chuangxin')
+    session = boto3.Session(profile_name='')
 
     # create the kinesis client
     kinesis_client = session.client('kinesis', region_name='us-east-1')
